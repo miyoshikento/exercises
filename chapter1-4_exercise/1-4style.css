@@ -21,20 +21,25 @@
   height: 1400px;
   display: flex;
   justify-content: center;
+  margin: 0 auto;
 }
 
-.springgreen-box {
-  width: 960px;
+.sidebar-left {
+  width: 230px;
   height: 1400px;
   background-color: springgreen;
-  display: flex;
-  justify-content: center;
 }
 
-.green-box {
+.blog {
   width: 500px;
   height: 1400px;
   background-color: green;
+}
+
+.sidebar-right {
+  width: 230px;
+  height: 1400px;
+  background-color: springgreen;
 }
 
 .footer {
