@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  width: 100%;
+  text-align: center;
+  margin: 20px 0;
+}
+
+.nav-list {
+  border-bottom: 1px solid black;
+  border-top: 1px solid black;
+  text-align: center;
+}
+
+.nav-list-item {
+  display: inline-block;
+  margin: 15px 20px;
+  list-style: none;
+}
+
+.box1 {
+  height: 200px;
+  width: 200px;
+  color: #e6ffe9;
+}
+
+.box2 {
+  height: 200px;
+  width: 200px;
+  color: #cbffd3;
+}
+
+.box3 {
+  height: 200px;
+  width: 200px;
+  color: #aeffbd;
+}
